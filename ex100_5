@@ -2,6 +2,6 @@ package java_ex100;
 
 public class Java5 {
     public static void main(String[] args) {
-        System.out.println("\"Hello\nWorld\"");
+        System.out.print("\"Hello World\"");
     }
 }
