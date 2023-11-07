@@ -1,4 +1,4 @@
-package practice;
+package Javaex100;
 import java.util.Scanner;
 
 public class Java10 {
